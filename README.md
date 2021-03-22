@@ -6,11 +6,11 @@ The purpose of this analysis was to create a user-friendly dashboard for people 
 
 # Results
 The webpage is now updated to include filters for:
-            date
-            city
-            state
-            country 
-            shape
+-date
+-city
+-state
+-country 
+-shape
 
 Users can easily enter the information they are looking for in the filters on the right then simply press enter to view the results on the left in the table. 
 
