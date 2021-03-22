@@ -20,7 +20,7 @@ Users can easily enter the information they are looking for in the filters on th
 The updates to the website where successful and allow for a better user experience, however there is still room for improvement. 
 
 ## Drawbacks
-* The dataset is very limited at the current momment and therefore the website search capabilities are limited.
+* The dataset is not limited at the current momment and therefore the website search capabilities are not what they could be.
 * The data is static, meaning that the user isn't always seeing the most up to date information
 
 ## Reccomendations
