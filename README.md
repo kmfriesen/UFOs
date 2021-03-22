@@ -17,6 +17,7 @@ Users can easily enter the information they are looking for in the filters on th
 ![alt text](https://github.com/kmfriesen/UFOs/blob/main/static/images/UFO_filter_search.PNG)
 
 # Summary 
+The updates to the website where successful and allow for a better user experience, however there is still room for improvement. 
 
 ## Drawbacks
 * The dataset is very limited at the current momment and therefore the website search capabilities are limited.
