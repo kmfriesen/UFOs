@@ -14,7 +14,7 @@ The webpage is now updated to include filters for:
 
 Users can easily enter the information they are looking for in the filters on the right then simply press enter to view the results on the left in the table. 
 
-! [picture alt](https://github.com/kmfriesen/UFOs/blob/main/static/images/UFO_filter_search.PNG)
+! [alt text](https://github.com/kmfriesen/UFOs/blob/main/static/images/UFO_filter_search.PNG)
 
 # Summary 
 
