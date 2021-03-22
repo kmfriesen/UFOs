@@ -1,5 +1,3 @@
-# UFOs
-
 # UFO Sightings: The Truth is Out There
 
 # Overview
