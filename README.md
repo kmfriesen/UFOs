@@ -6,7 +6,7 @@ The purpose of this analysis was to create a user-friendly dashboard for people 
 
 # Results
 The webpage is now updated to include filters for:
--date
+*date
 -city
 -state
 -country 
